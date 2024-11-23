@@ -1,3 +1,0 @@
-/home/king/naturalTwoWayMergeSort/cmake-build-debug/CMakeFiles/naturalTwoWayMergeSort.dir
-/home/king/naturalTwoWayMergeSort/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/king/naturalTwoWayMergeSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
